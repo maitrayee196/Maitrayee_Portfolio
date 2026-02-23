@@ -37,7 +37,10 @@ I'm a **results-driven FP&A professional** currently pursuing my **MS in Finance
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-**Core Competencies:** Financial Planning & Analysis • Budget & Forecasting • Financial Modeling • Investment Analysis • Data Analytics • KPI Tracking • Variance Analysis • Cost Optimization
+**Core Competencies:** Financial Planning & Analysis • Budget & Forecasting • Financial Modeling • Investment Analysis • Data Analytics • KPI Tracking • Variance Analysis • Cost Optimization📊 Financial Planning & Analysis    💰 Budgeting & Forecasting      📈 DCF & Financial Modeling
+💹 Investment & Valuation Analysis  🔄 Process Automation            📉 Variance Analysis
+🎯 KPI Tracking & Reporting         💻 Data Analytics (Python / R)   🌐 Multi-Currency P&L
+📑 Financial Statement Analysis     🔍 Risk Management              
 
 ---
 
