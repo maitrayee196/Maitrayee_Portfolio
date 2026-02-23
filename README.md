@@ -40,9 +40,19 @@ I'm a results-driven FP&A professional with 3+ years at JP Morgan Chase, current
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
 ## Core Competencies
-  • 📊 Financial Planning & Analysis  •  💰 Budgeting & Forecasting  •  📈 DCF & Financial Modeling  •  💹 Investment & Portfolio Analysis
-📉 Variance Analysis  •  🎯 KPI Tracking & Reporting  •  ⚡ Cost Optimization  •  🔄 Process Automation
-🌐 Multi-Currency P&L  •  📑 Financial Statement Analysis  •  🔍 Risk Management  •  💻 Data Analytics (Python / R)
+•	📊 Financial Planning & Analysis  
+•	💰 Budgeting & Forecasting  
+•	📈 DCF & Financial Modeling  
+•	💹 Investment & Portfolio Analysis
+•	📉 Variance Analysis 
+•	🎯 KPI Tracking & Reporting  
+•	⚡ Cost Optimization  
+•	🔄 Process Automation
+•	🌐 Multi-Currency P&L  
+•	📑 Financial Statement Analysis  
+•	🔍 Risk Management  
+•	💻 Data Analytics (Python / R)
+
 ---
 
 ## 💼 Professional Experience
