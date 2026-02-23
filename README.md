@@ -14,12 +14,14 @@
 
 ## 🚀 About Me
 
-I'm a **results-driven FP&A professional** currently pursuing my **MS in Finance at Stevens Institute of Technology**. With 3+ years of experience at **JP Morgan Chase**, I specialize in transforming complex financial data into strategic insights that drive business decisions.
+I'm a results-driven FP&A professional with 3+ years at JP Morgan Chase, currently pursuing my MS in Finance (GPA: 3.91/4.0) at Stevens Institute of Technology on a Provost Dean's Merit Scholarship. I specialise in transforming complex financial data into strategic insights — from managing billion-dollar budgets and automating workflows to building DCF models and sourcing VC deals.
 
 - 💼 **Former FP&A Associate** at JP Morgan Chase (managed $1.06B annual budget)
-- 🎓 **Pursuing MS in Finance** at Stevens Institute of Technology
+- 🎓 **Pursuing MS in Finance** at Stevens Institute of Technology · GPA 3.91 / 4.0 · Provost Dean's Merit Scholar
 - 📊 **Expertise in:** Financial Planning & Analysis, Budgeting, Forecasting, Data Analytics
+- 🛠 Tools: Python · R · Tableau · Alteryx · Bloomberg · Excel
 - 💡 **Passionate about:** Cost optimization, process automation, and data-driven strategy
+- 🌱 Currently exploring: Quantitative investment management, ML in finance, and private equity
 
 ### 🏆 Career Highlights
 - Managed $1.06B+ annual budget for 7,041 FTEs at JP Morgan Chase
@@ -37,11 +39,8 @@ I'm a **results-driven FP&A professional** currently pursuing my **MS in Finance
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 
-**Core Competencies:** Financial Planning & Analysis • Budget & Forecasting • Financial Modeling • Investment Analysis • Data Analytics • KPI Tracking • Variance Analysis • Cost Optimization📊 Financial Planning & Analysis    💰 Budgeting & Forecasting      📈 DCF & Financial Modeling
-💹 Investment & Valuation Analysis  🔄 Process Automation            📉 Variance Analysis
-🎯 KPI Tracking & Reporting         💻 Data Analytics (Python / R)   🌐 Multi-Currency P&L
-📑 Financial Statement Analysis     🔍 Risk Management              
-
+Core Competencies
+Planning & AnalysisModeling & ValuationReporting & StrategyFinancial Planning & AnalysisDCF & Financial ModelingKPI Tracking & ReportingBudgeting & ForecastingInvestment & Portfolio AnalysisVariance AnalysisMulti-Currency P&LFinancial Statement AnalysisCost OptimizationData Analytics (Python / R)Risk ManagementProcess Automation
 ---
 
 ## 💼 Professional Experience
